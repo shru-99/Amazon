@@ -6,6 +6,10 @@ public class Demo {
 		System.out.println("Sujatha");
 		
 		System.out.println("Shekar");
+		
+		System.out.println("Shruthi");
+		
+		System.out.println("Shashi");
 	}
 
 }
